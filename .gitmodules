@@ -1,3 +1,4 @@
 [submodule "american-river-college"]
 	path = american-river-college
 	url = git@github.com:evil-cheetah-edu/american-river-college.git
+	branch = master
