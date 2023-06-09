@@ -7,5 +7,5 @@ I. [Institutions](./Institutions/):
   1. [American River College](https://github.com/evil-cheetah-edu/american-river-college)
   2. [San José State University](https://github.com/evil-cheetah-edu/san-jose-state-university)
 
-II. [Online Courses](./Courses/):
+II. [Online Courses](./Online%20Courses/):
   1. [Kevin Powell Courses](https://github.com/evil-cheetah-edu/kevin-powell-courses)
