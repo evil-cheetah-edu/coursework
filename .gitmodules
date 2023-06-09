@@ -6,3 +6,7 @@
 	path = Institutions/San José State University
 	url = git@github.com:evil-cheetah-edu/san-jose-state-university.git
 	branch = master
+[submodule "kevin-powell-courses"]
+	path = kevin-powell-courses
+	url = git@github.com:evil-cheetah-edu/kevin-powell-courses.git
+	branch = solutions
