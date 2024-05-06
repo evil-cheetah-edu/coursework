@@ -8,5 +8,5 @@ I. [Institutions](./Institutions/):
   2. [San José State University](https://github.com/evil-cheetah-edu/san-jose-state-university)
   3. [Sacramento State University](https://github.com/evil-cheetah-edu/sacramento-state-university)
 
-II. Online Courses:
+II. [Online Courses](./Online%20Courses/):
   1. [Kevin Powell Courses](https://github.com/evil-cheetah-edu/kevin-powell-courses)
