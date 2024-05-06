@@ -6,3 +6,7 @@
 	path   = Institutions/San José State University
 	url    = git@github.com:evil-cheetah-edu/san-jose-state-university.git
 	branch = master
+[submodule "sacramento-state-university"]
+	path   = Institutions/Sacramento State University
+	url    = git@github.com:evil-cheetah-edu/sacramento-state-university.git
+	branch = master
