@@ -1,5 +1,5 @@
 # Description
-## About This Repository
+## About This Section
 Contains the links to the solutions for the institutions in which I have enrolled
 
 ## Table of Content
