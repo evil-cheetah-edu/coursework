@@ -10,3 +10,7 @@
 	path   = Institutions/Sacramento State University
 	url    = git@github.com:evil-cheetah-edu/sacramento-state-university.git
 	branch = master
+[submodule "kevin-powell-courses"]
+	path   = Online Courses/Kevin Powell Courses
+	url    = git@github.com:evil-cheetah-edu/kevin-powell-courses.git
+	branch = master
